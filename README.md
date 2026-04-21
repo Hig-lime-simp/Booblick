@@ -24,7 +24,7 @@
 
 | Главный экран | Подсказка | Результат 100% |
 |---------------|-----------|----------------|
-| ![main](Booblick\img\main.png) | ![hint](Booblick\img\hint.png) | ![res](Booblick\img\100.png) |
+| ![main](https://github.com/Hig-lime-simp/Booblick/blob/main/img/main.png) | ![hint](https://github.com/Hig-lime-simp/Booblick/blob/main/img/hint.png) | ![res](https://github.com/Hig-lime-simp/Booblick/blob/main/img/100.png) |
 
 ---
 
