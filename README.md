@@ -24,7 +24,7 @@
 
 | Главный экран | Подсказка | Результат 100% |
 |---------------|-----------|----------------|
-| ![main](img\main.png) | ![hint](img\hint.png) | ![res](img\100.png) |
+| ![main](\img\main.png) | ![hint](\img\hint.png) | ![res](\img\100.png) |
 
 ---
 
